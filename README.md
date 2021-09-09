@@ -1,11 +1,19 @@
-# Unity Game
-Unity/Vuforia mobile game as a school project
-![Image](https://hprobertos.github.io/images/pic2.jpg)
+<!-- Do not translate this -->
+<strong> Si quieres leer esta guia en español, usar: <a href="./README-ES.md"> esta liga. </a></strong>
+<!-- Do not translate this -->
+
+# Welcome to my Unity Game (For Android)
+
+This was a project made only by 2 developers, learning Interaction Design.
+
+The project was made in Unity with a Vuforia SDK to use Augmented Reality and then compiled to an APK.
+
+![Preview](https://hprobertos.github.io/images/pic2.jpg)
 
 I do not own most of the content used in this project like: 
-* Music 
+* Music/Sounds
 * Assets
-* Public code used. 
+* Public code used (Mostly imports). 
 
 I do not earn money from this and the only purpose of it was to complete the corresponding course.
 
@@ -19,4 +27,4 @@ Choose the game you are willing to play in the main menu and then read the instr
 This game was developed to run in Android with AR features. It won't work on Apple devices or old android devices. 
 
 ## Credit
-You have all rights to use it as you wish, but I will be so grateful if you credit me for my hard work. Have fun!
+You have all rights to use it as you wish, but I will be so grateful if you credit me for my work. Have fun!
